@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MixGH.github.io/rsschool-cv/cv
