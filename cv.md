@@ -7,7 +7,7 @@ I studied at **Tver State University**. Specialty ecology and nature management.
 I am very much afraid of constant routine or cyclical work. My goal is to find the thing that I will enjoy, and from which I will profit in the form of skills and knowledge. I am ready for various tasks, experiments, both related to programming and in other areas of activity, such as languages.
 ### The Skills
 My level of English is **Pre-Intermediate** (*18.07.2021*). I attend a language school every week and try to study every day for *1-2* hours.
-Took several courses: 
+Took several courses:
 - [HTML](https://ru.code-basics.com/languages/html)  
 - [CSS](https://ru.code-basics.com/languages/css) 
 - [Version control Git](https://elearn.epam.com/courses/course-v1:EPAM+VCG+RU/courseware/8a58c84fd1d2474b8f69a15171f524ae/ab5e12cb97ca4c3983af26e9bd1f715c/?tpa_hint=123&child=last)   
@@ -33,15 +33,12 @@ Of my personal skills, I have, to one degree or another, the following skills:
 - responsiveness;
 - responsibility;
 - decency;
-- adherence to principles;
-- punctuality;
 - innovation;
 - self-criticism;
 - scrupulousness;
 - fairness;
 - striving for professional development, self-improvement, professional growth, development;
 - a creative approach to finding ways to accomplish the assigned tasks;
-- hard work;
 - self confidence;
 - teamwork skills;
 - ability to adapt to changes;
