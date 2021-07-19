@@ -46,5 +46,5 @@ Of my personal skills, I have, to one degree or another, the following skills:
 - honesty; 
 
 ### Communication
- My telefon number: + 7(930)-170-29-80 
- My E-mail address: kudryavcev_1994@bk.ru  and my spare E-mail: MixGH@yandex.ru 
+ My telefon number: *+ 7(930)-170-29-80*
+ My E-mail address: **kudryavcev_1994@bk.ru**  and my spare E-mail: **MixGH@yandex.ru**git 
