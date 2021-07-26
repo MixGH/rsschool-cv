@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box; 
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+#main {
+    display: block;
+    min-height: calc(100vh - 40vh);
+    flex: 1;
+}
+
+header, footer {
+    background: grey;
+    color: white;
+    height: 20vh;
+    padding: 1em;
+    border-top: white;
+}
+
+article, section, nav {
+    padding: 1em;
+    background: black;
+    color: white;
+}
+
+#name{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+#underline{
+    width: 475px;
+    height: 3px;
+    margin-left: 125px;
+    background: white;
+}
+
+.photo_profile {
+    position: absolute; 
+    left: 10px; top: 10px; 
+    width: 100px; height: 150px; 
+}
+
+#qualification{
+    font-size: 20px;
+    letter-spacing: 0.2em;
+    margin-left: 135px;
+}
+
+a{
+    color: white;
+}
+
+.logo {
+    position: relative;
+    left: 350px;
+    bottom: 50px;
+    width:150px;
+    height:150px;
+}
