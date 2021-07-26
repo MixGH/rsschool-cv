@@ -1,1 +1,1 @@
-https://MixGH.github.io/rsschool-cv/cv
+ https://MixGH.github.io/rsschool-cv/
